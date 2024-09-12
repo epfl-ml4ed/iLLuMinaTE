@@ -1,4 +1,4 @@
-# illuminate
+# iLLuMinaTE
 Using LLMs for efficient communication of explainers.
 
 **Main research questions:**  
